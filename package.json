@@ -1,0 +1,12 @@
+{
+  "name": "anime",
+  "version": "1.0.0",
+  "description": "A simple API for random anime videos",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "Axshu",
+  "license": "ISC"
+}
